@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="216mm" height="279mm" viewBox="0 0 216 279">
+  <title>checkerboard: 7 x 9, spacing 20 mm</title>
+  <rect x="0" y="0" width="216" height="279" fill="black" stroke="none" />
+  <g fill="white" stroke="none">
+    <rect x="38" y="49.5" width="20" height="20" />
+    <rect x="78" y="49.5" width="20" height="20" />
+    <rect x="118" y="49.5" width="20" height="20" />
+    <rect x="158" y="49.5" width="20" height="20" />
+    <rect x="58" y="69.5" width="20" height="20" />
+    <rect x="98" y="69.5" width="20" height="20" />
+    <rect x="138" y="69.5" width="20" height="20" />
+    <rect x="38" y="89.5" width="20" height="20" />
+    <rect x="78" y="89.5" width="20" height="20" />
+    <rect x="118" y="89.5" width="20" height="20" />
+    <rect x="158" y="89.5" width="20" height="20" />
+    <rect x="58" y="109.5" width="20" height="20" />
+    <rect x="98" y="109.5" width="20" height="20" />
+    <rect x="138" y="109.5" width="20" height="20" />
+    <rect x="38" y="129.5" width="20" height="20" />
+    <rect x="78" y="129.5" width="20" height="20" />
+    <rect x="118" y="129.5" width="20" height="20" />
+    <rect x="158" y="129.5" width="20" height="20" />
+    <rect x="58" y="149.5" width="20" height="20" />
+    <rect x="98" y="149.5" width="20" height="20" />
+    <rect x="138" y="149.5" width="20" height="20" />
+    <rect x="38" y="169.5" width="20" height="20" />
+    <rect x="78" y="169.5" width="20" height="20" />
+    <rect x="118" y="169.5" width="20" height="20" />
+    <rect x="158" y="169.5" width="20" height="20" />
+    <rect x="58" y="189.5" width="20" height="20" />
+    <rect x="98" y="189.5" width="20" height="20" />
+    <rect x="138" y="189.5" width="20" height="20" />
+    <rect x="38" y="209.5" width="20" height="20" />
+    <rect x="78" y="209.5" width="20" height="20" />
+    <rect x="118" y="209.5" width="20" height="20" />
+    <rect x="158" y="209.5" width="20" height="20" />
+  </g>
+</svg>

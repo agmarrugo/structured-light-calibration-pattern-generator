@@ -1,0 +1,18 @@
+{
+  "columns": 7,
+  "rows": 9,
+  "spacing_mm": 20,
+  "radius_ratio": 2.5,
+  "page_width_mm": 216,
+  "page_height_mm": 279,
+  "kind": "checkerboard",
+  "inverted": true,
+  "object_point_order": "row-major",
+  "object_point_origin_on_page_mm": [
+    58.0,
+    69.5
+  ],
+  "foreground": "white",
+  "background": "black",
+  "circle_radius_mm": null
+}

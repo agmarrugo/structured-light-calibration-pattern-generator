@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "structured-light-calibration-patterns"
+version = "0.1.0"
+description = "Inverted SVG calibration targets with physical geometry"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+notebook = ["jupyterlab", "ipykernel"]
+
+[project.scripts]
+calibration-patterns = "calibration_patterns.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["calibration_patterns*"]

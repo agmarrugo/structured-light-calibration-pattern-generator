@@ -1,0 +1,18 @@
+{
+  "columns": 7,
+  "rows": 21,
+  "spacing_mm": 35,
+  "radius_ratio": 2.5,
+  "page_width_mm": 594,
+  "page_height_mm": 841,
+  "kind": "acircles",
+  "inverted": true,
+  "object_point_order": "row-major",
+  "object_point_origin_on_page_mm": [
+    69.5,
+    70.5
+  ],
+  "foreground": "white",
+  "background": "black",
+  "circle_radius_mm": 14.0
+}
